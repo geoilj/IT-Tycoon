@@ -1,4 +1,4 @@
-//Created 06.03.2013; +2
+//Created 06.03.2013; +3
 public class World 
 {
 
