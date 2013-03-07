@@ -1,5 +1,4 @@
 
-public class OS 
-{
+public class OS {
 
 }
